@@ -15,7 +15,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI and E
 - Microsoft Excel
 
 ## 📷 Dashboard Preview
-![Dashboard ](dashboard.png)
+![Dashboard](dashboard.png)
 
 
 ## 🚀 Key Learnings
